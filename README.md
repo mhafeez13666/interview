@@ -1,8 +1,7 @@
 # interview
 Code for some Interview questions.
 
-# Q1: Given an array of integers, find out if the numbers are in a pyramid fashion. That is, the sorting is ascending
-and then descends after that.
+# Q1: Given an array of integers, find out if the numbers are in a pyramid fashion. That is, the sorting is ascending and then descends after that.
 
 eg: <br>
 {1,2,3,4,5,4,3,2,1} is a pyramid<br>
@@ -11,8 +10,7 @@ eg: <br>
 
 Possible answer: gpon.c
 
-# Q2: Given a large positive integer, print the number in the format of thousands, millions, billions separating
-each by a comma.
+# Q2: Given a large positive integer, print the number in the format of thousands, millions, billions separating each by a comma.
 
 eg: <br>
 
