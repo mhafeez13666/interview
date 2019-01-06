@@ -26,3 +26,9 @@ eg: <br>
 
 > Possible answer: main.cpp
 
+### Q4: Write a rolling hash function in C which can be used for Rabin Karp Algorithm
+
+eg: <br>
+
+> Possible answer: rollingHash.c
+
