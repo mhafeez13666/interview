@@ -1,5 +1,5 @@
 # Some coding Interview questions
-Thes are some coding questions asked in "Engineering/Senior Engineering" manager Interview rounds, so if you are a SDE-III or someone then these are not for you. Also, I didn't sign any NDA or something that I shouldn't share these.
+These are some coding questions asked in "Engineering/Senior Engineering" manager Interview rounds, so if you are a SDE-III or someone then these are not for you. Also, I didn't sign any NDA or something that I shouldn't share these. I have also added some questions which I solved individually, not necessarily asked in the interviews.
 
 ### Q1: Given an array of integers, find out if the numbers are in a pyramid fashion. That is, the sorting is ascending and then descends after that.
 
