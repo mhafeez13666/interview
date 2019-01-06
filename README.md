@@ -19,3 +19,10 @@ eg: <br>
 8374780855 should be printed as 8,374,780,855<br>
 
 Possible answer: nutx.c
+
+# Q3: Write a C++ code for implementation hash tables with a linkedlist to handle collisions
+
+eg: <br>
+
+Possible answer: main.cpp
+
