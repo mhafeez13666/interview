@@ -20,7 +20,7 @@ eg: <br>
 
 Possible answer: nutx.c
 
-# Q3: Write a C++ code for implementation hash tables with a linkedlist to handle collisions
+# Q3: Write a C++ code for a implementation of hash table with a linkedlist to handle collisions
 
 eg: <br>
 
