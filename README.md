@@ -1,5 +1,5 @@
-# interview
-Code for some Interview questions.
+# Some coding Interview questions
+Code for some Interview questions. I didn't sign any NDA or something that I shouldn't share these.
 
 ### Q1: Given an array of integers, find out if the numbers are in a pyramid fashion. That is, the sorting is ascending and then descends after that.
 
@@ -14,15 +14,15 @@ eg: <br>
 
 eg: <br>
 
-12345 should be printed as 12,345<br>
-1876345 should be printed as 1,876,345<br>
-8374780855 should be printed as 8,374,780,855<br>
-
-Possible answer: nutx.c
+> 12345 should be printed as 12,345<br>
+> 1876345 should be printed as 1,876,345<br>
+> 8374780855 should be printed as 8,374,780,855<br>
+>
+> Possible answer: nutx.c
 
 ### Q3: Write a C++ code for a implementation of hash table with a linkedlist to handle collisions
 
 eg: <br>
 
-Possible answer: main.cpp
+> Possible answer: main.cpp
 
